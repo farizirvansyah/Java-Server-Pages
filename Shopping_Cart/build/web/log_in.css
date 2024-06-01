@@ -1,0 +1,75 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 30 Mei 2024, 18.19.41
+    Author     : Administrator
+*/
+
+body {
+    background-color: #f1f2f7; /* Ganti warna background sesuai keinginan Anda */
+}
+
+.login-box {
+    margin: 5% auto;
+    width: 360px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+
+.login-box-body {
+    padding: 10px 30px 30px 30px;
+}
+
+.login-logo {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.login-logo i {
+    font-size: 30px;
+}
+
+.alert {
+    margin-bottom: 15px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    padding: 15px;
+    position: relative; /* Perubahan posisi untuk tombol close */
+}
+
+.icon-title {
+    margin-right: 10px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+/*.navbar {
+    background-color: #007bff;  warna latar belakang navbar 
+}*/
+
+.navbar-brand {
+    color: #fff; /* warna teks logo */
+}
+
+.navbar-brand:hover {
+    color: #fff; /* warna teks logo saat hover */
+}
+
+.navbar-nav .nav-link {
+    color: #fff; /* warna teks link */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ccc; /* warna teks link saat hover */
+}
